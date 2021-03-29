@@ -1,0 +1,3 @@
+[submodule "Low-Resources-Biosensing"]
+	path = Low-Resources-Biosensing
+	url = git@github.com:openfiesta/Low-Resources-Biosensing.git
